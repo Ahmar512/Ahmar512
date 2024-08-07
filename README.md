@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **front-end and back-end frameworks**.
 
 - 👨‍💻 Check out my projects at [AhmarPortfolio](https://ahmar512.github.io/Portfolio/).
-- 
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmaransari3/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmar-ansari-80313225a/) 
 
