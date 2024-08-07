@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Priyanshu Chaurasiya</h1>
+<h1 align="center">Hi there! 👋 I'm Ahmar Ansari</h1>
 <h3 align="center">MERN Stack Developer | Programmer | Code Enthusiast</h3>
 
 - 🌱 I’m currently learning **front-end and back-end frameworks**.
